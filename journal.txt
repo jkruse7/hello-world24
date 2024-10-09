@@ -1,1 +1,8 @@
 This is my first repo! Yay!! Githubbb
+
+
+1. Add something
+I added this sentence
+2. git add .
+3. git commit -m "Enticing message here"
+4. git push origin main
